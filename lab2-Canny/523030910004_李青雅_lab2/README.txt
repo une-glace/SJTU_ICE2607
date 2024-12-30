@@ -1,0 +1,2 @@
+在exercise2.py中，改变low_threshold和high_threshold的值即可改变高低阈值
+在exercise3.py中，不同算子的代码在report.pdf中，替换即可得到不同算子计算出的边缘检测。

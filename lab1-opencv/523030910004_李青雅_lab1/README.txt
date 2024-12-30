@@ -1,0 +1,6 @@
+将含有图片的文件夹命名为images，并和exercise1.py, exercise2.py放在同一级目录下
+进入exercise1.py和exercise2.py，将image_paths中的图像路径改为images/yourImageName.fileExtension
+不用额外修改工作目录，直接运行代码即可
+
+我自己用示例图片跑出来的结果放在了outpu1和output2中，其中灰度比例直方图名为output2_1_i，梯度强度直方图名为output2_2_i
+测试跑出来的图片将放在test1和test2中，命名规则如上
